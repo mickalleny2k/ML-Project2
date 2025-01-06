@@ -163,5 +163,5 @@ spectrogram](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.S
 [19] [Value error when predicting using my model](https://stackoverflow.com/questions/77026495/value-error-when-predicting-using-my-model
 )
 
-[20] [TensorFlow Neural Network for GLM (Logistic Regression)](#https://medium.com/@thedatabeast/tensorflow-neural-network-for-glm-logistic-regression-47fadba204f4
+[20] [TensorFlow Neural Network for GLM (Logistic Regression)](https://medium.com/@thedatabeast/tensorflow-neural-network-for-glm-logistic-regression-47fadba204f4
 )
