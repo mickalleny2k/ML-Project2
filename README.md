@@ -121,4 +121,47 @@ If you're having trouble cloning a repository, check these common errors.
  3. Error: Remote HEAD refers to nonexistent ref, unable to checkout
 
 ## Research
+
 [1] [Parameters to control the size of a spectrogram](https://stackoverflow.com/questions/51241499/parameters-to-control-the-size-of-a-spectrogram)
+
+[2] [break up a .wav file by timestamp](https://stackoverflow.com/questions/51622865/break-up-a-wav-file-by-timestamp)
+
+[3] [Python: AttributeError: '_io.TextIOWrapper' object has no attribute 'split'](https://stackoverflow.com/questions/17569679/python-attributeerror-io-textiowrapper-object-has-no-attribute-split)
+
+[4] [Reading *.wav files in Python](https://stackoverflow.com/questions/2060628/reading-wav-files-in-python)
+
+[5] [Add numpy array as column to Pandas data frame](https://stackoverflow.com/questions/18646076/add-numpy-array-as-column-to-pandas-data-frame)
+
+[6] [Is there a way to convert npz files to panda dataframe?](https://stackoverflow.com/questions/59113331/is-there-a-way-to-convert-npz-files-to-panda-dataframe)
+
+[7] [Understanding inplace=True in pandas](https://stackoverflow.com/questions/43893457/understanding-inplace-true-in-pandas)
+
+[8] [Adding multiple rows in an existing dataframe](https://stackoverflow.com/questions/30081216/adding-multiple-rows-in-an-existing-dataframe)
+
+[9] [Insert a row to pandas dataframe](https://stackoverflow.com/questions/24284342/insert-a-row-to-pandas-dataframe)
+
+[10] [scipy.signal.ShortTimeFFT.
+spectrogram](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.ShortTimeFFT.spectrogram.html)
+
+[11] [Write output of for loop to multiple files](https://stackoverflow.com/questions/24119905/write-output-of-for-loop-to-multiple-files)
+
+[12] [NumPy: Save and load arrays in npy and npz files](https://note.nkmk.me/en/python-numpy-load-save-savez-npy-npz/)
+
+[13] [ValueError: x and y must have same first dimension, but have shapes, tkinter and matplotlib problem](https://stackoverflow.com/questions/67434780/valueerror-x-and-y-must-have-same-first-dimension-but-have-shapes-tkinter-and)
+
+[14] [Word Frequency with Python
+](https://absentdata.com/python-graphs/python-word-frequency/)
+
+[15] [Add numpy array as column to Pandas data frame](https://stackoverflow.com/questions/18646076/add-numpy-array-as-column-to-pandas-data-frame)
+
+[16] [How to develop a spectrogram (2D array) from audio signal?](https://dsp.stackexchange.com/questions/66477/how-to-develop-a-spectrogram-2d-array-from-audio-signal)
+
+[17] [Iterate over loop and adding list to dataframe in new row or new column](https://stackoverflow.com/questions/54194772/iterate-over-loop-and-adding-list-to-dataframe-in-new-row-or-new-column)
+
+[18] [Adding New Column to Existing DataFrame in Pandas](https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/)
+
+[19] [Value error when predicting using my model](https://stackoverflow.com/questions/77026495/value-error-when-predicting-using-my-model
+)
+
+[20] [TensorFlow Neural Network for GLM (Logistic Regression)](#https://medium.com/@thedatabeast/tensorflow-neural-network-for-glm-logistic-regression-47fadba204f4
+)
