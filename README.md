@@ -34,11 +34,11 @@ unannotated region has no call in it. Take care to ensure that the extracted“n
 spectrograms are from the same frequency region as the call spectrograms.
 I would recommend having a single jupyter notebook file that does all this preprocessing.
 
-![spectogram1](./img/spectogram1.PNG)
+![spectogram1](./img/spectogram1.png)
 
-![spectogram2](./img/spectogram2.PNG)
+![spectogram2](./img/spectogram2.png)
 
-![spectrogram](./img/spectrogram.PNG)
+![spectogram](./img/spectrogram.png)
 
 ### Step 2 – Model Training
 After you’ve created your dataset of “images”, it’s time to train your model.
