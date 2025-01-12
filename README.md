@@ -99,7 +99,7 @@ up a .wav file by timestamp - Stack Overflow) or try where you can get more comp
     ![step_2](./img/step_2.PNG)
 
 
-   - **Step 3**: The notebook opens in a web browser. It contains `Spectrogram.ipynb`. Open this notebook.
+   - **Step 3**: The notebook opens in a web browser. It contains `ml_project2.ipynb`. Open this notebook.
 
     ![step_3](./img/step_3.PNG)
 
