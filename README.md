@@ -2,7 +2,7 @@
 
 **by Michael Allen (g00425633@atu.ie)**
 
-This repository contains my assessment for the Applied Statistics module.
+This repository contains Project 2 for the Machine Learning module.
 
 
 ## PURPOSE
@@ -93,7 +93,7 @@ up a .wav file by timestamp - Stack Overflow) or try where you can get more comp
     ![step_2](./img/step_2.PNG)
 
 
-   - **Step 3**: The notebook opens in a web browser. It contains `tasks.ipynb` and `project.ipynb`
+   - **Step 3**: The notebook opens in a web browser. It contains `Spectrogram.ipynb`. Open this notebook.
 
     ![step_3](./img/step_3.PNG)
 
