@@ -34,9 +34,11 @@ unannotated region has no call in it. Take care to ensure that the extracted“n
 spectrograms are from the same frequency region as the call spectrograms.
 I would recommend having a single jupyter notebook file that does all this preprocessing.
 
-![rupeb](./img/rupeb.PNG)
+![Spectogram](./img/spectogram1.PNG)
 
-![rupeb_extract_a_call](./img/rupeb_extract_a_call.PNG)
+![rupeb_extract_a_call](./img/spectogram2.PNG)
+
+![rupeb](./img/spectogram.PNG)
 
 ### Step 2 – Model Training
 After you’ve created your dataset of “images”, it’s time to train your model.
